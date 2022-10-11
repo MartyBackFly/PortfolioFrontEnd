@@ -1,0 +1,47 @@
+[{
+
+"nombre": "Luquiano",
+"apellido": "Pascalletto",
+"edad": 55,
+"boleto": 300,
+"pagado": true,
+"asiento": {
+    "nuemero": 12,
+    "letra": "F",
+    "noseque1": false
+},
+
+"historial": [
+    {
+        "salida": "España",
+        "destino": "argentina",
+        "fecha": "26/9/2022"
+
+    }
+]
+},
+{
+
+    "nombre": "Ricardo",
+    "apellido": "Montaneretto",
+    "edad": 72,
+    "boleto": 300,
+    "pagado": true,
+    "asiento": {
+        "nuemero": 12,
+        "letra": "F",
+        "noseque1": false
+    },
+    
+    "historial": [
+        {
+            "salida": "España",
+            "destino": "argentina",
+            "fecha": "26/9/2022"
+    
+        }
+    ]
+    }
+]
+
+
